@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fce093bd-1d28-43e6-ae2b-ae51a402afb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../JAVA/DesignPatternProject/DesignPatternProject/src/edu/tongji/designpattern/ClassDesign/Person/Cashier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/BioModelSpark.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/BioModelSpark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pythonProject/sparkTest_1/.spyproject/workspace.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pythonProject/sparkTest_1/.spyproject/workspace.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/tongji/designpattern/ClassDesign/Business/OrderRecording/OrderRecordingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/tongji/designpattern/ClassDesign/Business/OrderRecording/OrderRecordingStrategy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -36,10 +39,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,6 +90,9 @@
       <option name="presentableId" value="Default" />
       <updated>1572002587021</updated>
       <workItem from="1572002591035" duration="1213000" />
+      <workItem from="1572694748917" duration="218000" />
+      <workItem from="1572695428623" duration="825000" />
+      <workItem from="1572696326592" duration="213000" />
     </task>
     <servers />
   </component>
@@ -97,7 +104,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
